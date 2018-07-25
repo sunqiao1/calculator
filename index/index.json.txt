@@ -1,6 +1,0 @@
-﻿{
-  "navigationBarBackgroundColor": "#FFFF00",
-  "navigationBarTitleText": "2000块的计算器",
-  "navigationBarTextStyle": "black",
-  "enablePullDownRefresh": false
-}
