@@ -1,0 +1,31 @@
+﻿{
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "#0066FF",
+    "backgroundColor": "#C0C0C0",
+    "borderStyle": "white",
+    "position": "top",
+    "list": [
+      {
+        "pagePath": "calculator/index/index",
+        "text": "计算界面"
+      },
+      {
+        "pagePath": "calculator/about/about",
+        "text": "关于"
+      }
+    ]
+  },
+  "pages": [
+    "calculator/index/index",
+    "calculator/about/about"
+  ],
+  "window": {
+    "navigationBarTitleText": "2000块的计算器",
+    "navigationBarBackgroundColor": "#FFFF00",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+
+  "debug": true
+}
